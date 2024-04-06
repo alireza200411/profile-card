@@ -11,15 +11,15 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: #4d4d4d;
+  background: #000000;
   font-family: "Poppins", sans-serif;
 }
 
 .container {
   width: 400px;
   border-radius: 30px;
-  background: #4d4d4d;
-  box-shadow: 20px 20px 60px #343434, -20px -20px 60px #3b3b3b;
+  background: #000000;
+  box-shadow: 20px 20px 60px #3300ff, -20px -20px 60px #c40404;
   padding: 20px;
   text-align: center;
 }
